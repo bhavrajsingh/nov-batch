@@ -5,6 +5,7 @@ public constructor()
 {
 	this(3,9,6);
 	System.out.println("defaut constructor");
+	System.out.println("updation to chk git");
 }
 public constructor(int a) 
 {
