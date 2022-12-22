@@ -1,6 +1,6 @@
 package package1;
 
-public class airthmatic1 {
+public final class airthmatic1 {
 public int sum(int a,int b) //(((((10+2)+2)-2)*2)/2)
 {
 	return a+b;

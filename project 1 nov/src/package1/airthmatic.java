@@ -11,6 +11,7 @@ public int sum(int a,int b)
 public int sub(int d,int e)
 {
 	int f;
+	
 	f=d-e;
 	System.out.println("sub result is "+f);
 	return f;

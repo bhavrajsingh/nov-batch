@@ -5,11 +5,11 @@ public constructor()
 {
 	this(3,9,6);
 	System.out.println("defaut constructor");
-	System.out.println("updation to chk git");
+	//System.out.println("updation to chk gitt");
 }
 public constructor(int a) 
 {
-	this();
+	this(); 
 	System.out.println("one parameterized constructor");
 }
 public constructor(int a,int b) 
